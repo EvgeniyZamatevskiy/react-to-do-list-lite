@@ -1,0 +1,10 @@
+@import 'src/styles/sass/mixins.scss';
+
+.tasksForm {
+  @include flex(column, stretch, stretch);
+
+  .button {
+    margin-top: 10px;
+    align-self: end;
+  }
+}

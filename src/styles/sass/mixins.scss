@@ -1,0 +1,17 @@
+@import "./templates.scss";
+
+@mixin flex($flexDirection, $justifyContent, $alignItems, $flexWrap: null) {
+  @extend %flexBox;
+  flex-direction: $flexDirection;
+  justify-content: $justifyContent;
+  align-items: $alignItems;
+  flex-wrap: $flexWrap;
+}
+
+@mixin anim($time, $delay) {
+  -webkit-transition: all $time ease $delay;
+  -moz-transition: all $time ease $delay;
+  -ms-transform: all $time ease $delay;
+  -o-transition: all $time ease $delay;
+  transition: all $time ease $delay;
+}
