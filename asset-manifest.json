@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-to-do-list-lite/static/css/main.d0a32708.css",
+    "main.js": "/react-to-do-list-lite/static/js/main.6b1d592d.js",
+    "static/media/checked.svg": "/react-to-do-list-lite/static/media/checked.9e7893e9bcb2c8818bc0.svg",
+    "static/media/upload.svg": "/react-to-do-list-lite/static/media/upload.73235fce8a4ca5bd40db574440b97bec.svg",
+    "static/media/close.svg": "/react-to-do-list-lite/static/media/close.129ae48e2d5cd0737c0a4b8d5372aae4.svg",
+    "index.html": "/react-to-do-list-lite/index.html",
+    "main.d0a32708.css.map": "/react-to-do-list-lite/static/css/main.d0a32708.css.map",
+    "main.6b1d592d.js.map": "/react-to-do-list-lite/static/js/main.6b1d592d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a32708.css",
+    "static/js/main.6b1d592d.js"
+  ]
+}
